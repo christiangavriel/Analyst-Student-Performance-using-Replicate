@@ -26,8 +26,4 @@ environment are key drivers, systemic factors also play a critical role
 and require targeted interventions to ensure equitable success for all
 students.
 
-AI Support Explanation: This analysis is supported by IBM Granite LLM,
-accessed via Replicate API and LangChain: - The model provides automatic
-insights on each data row (usefulness, explanations) - It also assists
-in creating a Pandas DataFrame agent to quickly manipulate data (drop
-NA, drop duplicates)
+AI Support Explanation: This analysis is supported by the IBM Granite Large Language Model (LLM), accessed through the Replicate API and integrated with LangChain. The model is used not only to provide automatic insights for each individual data row, such as assessing usefulness and generating clear explanations, but also to act as an intelligent assistant for data manipulation tasks. By creating a Pandas DataFrame agent, the model can rapidly execute operations like removing missing values, dropping duplicate records, and performing other routine preprocessing steps. In this way, the AI component helps accelerate both the exploratory and cleaning phases of the analysis, allowing the focus to shift toward interpreting results and identifying meaningful patterns in the dataset.
