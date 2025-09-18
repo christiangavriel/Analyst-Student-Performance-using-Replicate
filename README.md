@@ -14,13 +14,13 @@ records - Add a new column `avg score` = average of math, reading, and
 writing scores
 
 Insights & Findings: - Student academic performance is shaped by both
-individual preparation and family background.\
+individual preparation and family background.
 - Completing a test preparation course gives a consistent and
-significant boost to scores across all student groups.\
+significant boost to scores across all student groups.
 - Higher levels of parental education correlate strongly with better
-student outcomes.\
+student outcomes.
 - A persistent performance gap remains among different ethnic groups,
-even after accounting for test preparation.\
+even after accounting for test preparation.
 - These findings suggest that while individual effort and home
 environment are key drivers, systemic factors also play a critical role
 and require targeted interventions to ensure equitable success for all
